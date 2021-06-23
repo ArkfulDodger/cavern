@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 8fd752eb6af1b49b8a9521ca8571584a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1457706384572036789
+    second: Tunnel-Buffer_0
+  - first:
+      213: -5100961010287983908
+    second: Tunnel-Buffer_1
+  - first:
+      213: 2429651185562555823
+    second: Tunnel-Buffer_2
+  - first:
+      213: -2902084957428319306
+    second: Tunnel-Buffer_3
+  - first:
+      213: -1020807422367597378
+    second: Tunnel-Buffer_4
+  - first:
+      213: -1195759067363517789
+    second: Tunnel-Buffer_5
+  - first:
+      213: -6646033266852980230
+    second: Tunnel-Buffer_6
+  - first:
+      213: 1647532931290519742
+    second: Tunnel-Buffer_7
+  - first:
+      213: -15919493087802334
+    second: Tunnel-Buffer_8
+  - first:
+      213: 7930197158233018517
+    second: Tunnel-Buffer_9
+  - first:
+      213: 3985533991570545222
+    second: Tunnel-Buffer_10
+  - first:
+      213: 1308375960306222079
+    second: Tunnel-Buffer_11
+  - first:
+      213: 5491716776675073661
+    second: Tunnel-Buffer_12
+  - first:
+      213: 3568871572097032755
+    second: Tunnel-Buffer_13
+  - first:
+      213: 8924770463428898494
+    second: Tunnel-Buffer_14
+  - first:
+      213: 5189155384526911849
+    second: Tunnel-Buffer_15
+  - first:
+      213: 4287169318131611184
+    second: Tunnel-Buffer_16
+  - first:
+      213: -416148522107713375
+    second: Tunnel-Buffer_17
+  - first:
+      213: -8186064911796737686
+    second: Tunnel-Buffer_18
+  - first:
+      213: -1469942391267614421
+    second: Tunnel-Buffer_19
+  - first:
+      213: 6135610491982430067
+    second: Tunnel-Buffer_20
+  - first:
+      213: -3672979035458436543
+    second: Tunnel-Buffer_21
+  - first:
+      213: -6284554193318084337
+    second: Tunnel-Buffer_22
+  - first:
+      213: 8765105665193463312
+    second: Tunnel-Buffer_23
+  - first:
+      213: 5074025007813561177
+    second: Tunnel-Buffer_24
+  - first:
+      213: -694049178798347303
+    second: Tunnel-Buffer_25
+  - first:
+      213: 2514700553991000792
+    second: Tunnel-Buffer_26
+  - first:
+      213: 2167767758276618717
+    second: Tunnel-Buffer_27
+  - first:
+      213: 5376014945595536646
+    second: Tunnel-Buffer_28
+  - first:
+      213: 8129737873063490087
+    second: Tunnel-Buffer_29
+  - first:
+      213: -4487544454692734359
+    second: Tunnel-Buffer_30
+  - first:
+      213: -2683222688707119097
+    second: Tunnel-Buffer_31
+  - first:
+      213: 4849170250700076011
+    second: Tunnel-Buffer_32
+  - first:
+      213: 866579742806785126
+    second: Tunnel-Buffer_33
+  - first:
+      213: -5671144593721552555
+    second: Tunnel-Buffer_34
+  - first:
+      213: -6119128752569411291
+    second: Tunnel-Buffer_35
+  - first:
+      213: 6371423929609234011
+    second: Tunnel-Buffer_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tunnel-Buffer_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: -8, y: 15}
+        - {x: -8, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63c37cb30da3410800000000000000
+      internalID: 1457706384572036789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: -8}
+        - {x: 15, y: -8}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2caa8bcfeb539b0800000000000000
+      internalID: -5100961010287983908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5109361ead7b120800000000000000
+      internalID: 2429651185562555823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 2}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfa7c6b19b9b7d0800000000000000
+      internalID: -2902084957428319306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: -8, y: 15}
+        - {x: -8, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc72bdce0d55d1f0800000000000000
+      internalID: -1020807422367597378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: -8}
+        - {x: 15, y: -8}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa58d0b67fc76fe0800000000000000
+      internalID: -1195759067363517789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af99ccbb4fb84c3a0800000000000000
+      internalID: -6646033266852980230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 2}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb85455d8763dd610800000000000000
+      internalID: 1647532931290519742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: -8, y: 15}
+        - {x: -8, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4f7d2e4177cff0800000000000000
+      internalID: -15919493087802334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: -8}
+        - {x: 15, y: -8}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909a47ac48bd0e60800000000000000
+      internalID: 7930197158233018517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9ecf8c067f4730800000000000000
+      internalID: 3985533991570545222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 2}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff386baf009482210800000000000000
+      internalID: 1308375960306222079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: 15}
+        - {x: -8, y: 15}
+        - {x: -8, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e55c0ef4f763c40800000000000000
+      internalID: 5491716776675073661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: -8}
+        - {x: 15, y: -8}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33265df39cd278130800000000000000
+      internalID: 3568871572097032755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -15}
+        - {x: 8, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee39673772bdb70800000000000000
+      internalID: 8924770463428898494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 2}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96938033455930840800000000000000
+      internalID: 5189155384526911849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036303bc7c51f7b30800000000000000
+      internalID: 4287169318131611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: 14, y: 16}
+        - {x: 14, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a847fdbf1b893af0800000000000000
+      internalID: -416148522107713375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e0189551456e80800000000000000
+      internalID: -8186064911796737686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: 14, y: 16}
+        - {x: 14, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a438ee27b99be0800000000000000
+      internalID: -1469942391267614421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb5ce0c31162550800000000000000
+      internalID: 6135610491982430067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: 14, y: 16}
+        - {x: 14, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420b0c0705f60dc0800000000000000
+      internalID: -3672979035458436543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0185971247c8c8a0800000000000000
+      internalID: -6284554193318084337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: 14, y: 16}
+        - {x: 14, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ece98b929e3a970800000000000000
+      internalID: 8765105665193463312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -16}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -14}
+        - {x: -14, y: -16}
+        - {x: -15, y: -16}
+        - {x: -15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0d2c7cde8a6640800000000000000
+      internalID: 5074025007813561177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: -15, y: -16}
+        - {x: -15, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: 14}
+      - - {x: 14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: -14}
+        - {x: 14, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba219f2fd3e56f0800000000000000
+      internalID: -694049178798347303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      - - {x: 16, y: 14}
+        - {x: 14, y: 14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 15}
+        - {x: 16, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29c1594d206e220800000000000000
+      internalID: 2514700553991000792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -15}
+      - - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96f937a45751e10800000000000000
+      internalID: 2167767758276618717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 14}
+        - {x: -16, y: 14}
+      - - {x: -15, y: -16}
+        - {x: -15, y: -15}
+        - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -14}
+        - {x: -14, y: -16}
+      - - {x: 14, y: -16}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b9631c117b9a40800000000000000
+      internalID: 5376014945595536646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: 14}
+      - - {x: -15, y: -16}
+        - {x: -15, y: -15}
+        - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -14}
+        - {x: -14, y: -16}
+      - - {x: 15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223df8b581a2d070800000000000000
+      internalID: 8129737873063490087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -16}
+      - - {x: 16, y: 14}
+        - {x: 14, y: 14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 15}
+        - {x: 16, y: 15}
+      - - {x: 15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af340381a09b1c0800000000000000
+      internalID: -4487544454692734359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      - - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 14}
+      - - {x: 14, y: 14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f7525e2743cad0800000000000000
+      internalID: -2683222688707119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3be58a6a6bb4340800000000000000
+      internalID: 4849170250700076011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: -15, y: -16}
+        - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3c8b4fa5b60c00800000000000000
+      internalID: 866579742806785126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551995df90c0c41b0800000000000000
+      internalID: -5671144593721552555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299830f1dc741ba0800000000000000
+      internalID: -6119128752569411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tunnel-Buffer_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 14}
+        - {x: -16, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 14}
+      - - {x: 16, y: 14}
+        - {x: 14, y: 14}
+        - {x: 14, y: 16}
+        - {x: 15, y: 16}
+        - {x: 15, y: 15}
+        - {x: 16, y: 15}
+      - - {x: -16, y: -15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -14}
+        - {x: -14, y: -16}
+        - {x: -15, y: -16}
+        - {x: -15, y: -15}
+      - - {x: 15, y: -15}
+        - {x: 15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5628c58e48db6850800000000000000
+      internalID: 6371423929609234011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

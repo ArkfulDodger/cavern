@@ -1,0 +1,1470 @@
+fileFormatVersion: 2
+guid: b602d324402ee4776affa9529a43a340
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3432172019436274044
+    second: W__0
+  - first:
+      213: -6339776453504461552
+    second: W__1
+  - first:
+      213: 7719075385687139146
+    second: W__2
+  - first:
+      213: -6357338813673221152
+    second: W__3
+  - first:
+      213: 3102012152134651822
+    second: W__4
+  - first:
+      213: 2485524616362417816
+    second: W__5
+  - first:
+      213: 7147832697900629882
+    second: W__6
+  - first:
+      213: 1184416004890664190
+    second: W__7
+  - first:
+      213: -5121681743685268763
+    second: W__8
+  - first:
+      213: -4776430254438189871
+    second: W__9
+  - first:
+      213: -437908255079575630
+    second: W__10
+  - first:
+      213: -6966073905643248727
+    second: W__11
+  - first:
+      213: -7509069135347457316
+    second: W__12
+  - first:
+      213: -8085678096159840882
+    second: W__13
+  - first:
+      213: 7734066124491827959
+    second: W__14
+  - first:
+      213: -5235931498948928246
+    second: W__15
+  - first:
+      213: 6433327374573602839
+    second: W__16
+  - first:
+      213: -4209663505595272155
+    second: W__17
+  - first:
+      213: 4069175553709934797
+    second: W__18
+  - first:
+      213: -8049287284820798398
+    second: W__19
+  - first:
+      213: -5006919519145033108
+    second: W__20
+  - first:
+      213: 1340835702284845748
+    second: W__21
+  - first:
+      213: 8018703371388012586
+    second: W__22
+  - first:
+      213: 3760473814704069706
+    second: W__23
+  - first:
+      213: 6629090196450947178
+    second: W__24
+  - first:
+      213: 6274869381145125805
+    second: W__25
+  - first:
+      213: 6749186857607001591
+    second: W__26
+  - first:
+      213: -7613111655021239676
+    second: W__27
+  - first:
+      213: -6414421579721129871
+    second: W__28
+  - first:
+      213: -9042024264349145318
+    second: W__29
+  - first:
+      213: -5601046834276826125
+    second: W__30
+  - first:
+      213: -2557961611515934410
+    second: W__31
+  - first:
+      213: 6273958090992251892
+    second: W__32
+  - first:
+      213: 652798689760062161
+    second: W__33
+  - first:
+      213: 1072666232111655650
+    second: W__34
+  - first:
+      213: -5418863590846385831
+    second: W__35
+  - first:
+      213: 263698238415235906
+    second: W__36
+  - first:
+      213: -5623911475372045500
+    second: W__37
+  - first:
+      213: -5593432094994449253
+    second: W__38
+  - first:
+      213: 8388858645999578662
+    second: W__39
+  - first:
+      213: -3843438728959659309
+    second: W__40
+  - first:
+      213: -5149149094151274804
+    second: W__41
+  - first:
+      213: 5781844547747164209
+    second: W__42
+  - first:
+      213: -7300117500216028423
+    second: W__43
+  - first:
+      213: 4614315717744213546
+    second: W__44
+  - first:
+      213: -243099114694839562
+    second: W_0
+  - first:
+      213: -4830938959515655954
+    second: W_1
+  - first:
+      213: -6860487374272789442
+    second: W_2
+  - first:
+      213: 4278186640425537587
+    second: W_3
+  - first:
+      213: 8250041499104184828
+    second: W_4
+  - first:
+      213: 4285583596039854787
+    second: W_5
+  - first:
+      213: -679244959243822573
+    second: W_6
+  - first:
+      213: -7638515994382740752
+    second: W_7
+  - first:
+      213: -7209536442247481648
+    second: W_8
+  - first:
+      213: -2337622110338494908
+    second: W_9
+  - first:
+      213: -5605139875081559718
+    second: W_10
+  - first:
+      213: 659540708935178234
+    second: W_11
+  - first:
+      213: 2261986884098095934
+    second: W_12
+  - first:
+      213: -7728755493739141939
+    second: W_13
+  - first:
+      213: -6129245562035708195
+    second: W_14
+  - first:
+      213: -617373002122237953
+    second: W_15
+  - first:
+      213: -8093660761453917412
+    second: W_16
+  - first:
+      213: 5472827099922474702
+    second: W_17
+  - first:
+      213: 3985357388505652049
+    second: W_18
+  - first:
+      213: -8671319373549355357
+    second: W_19
+  - first:
+      213: -1667013973821252210
+    second: W_20
+  - first:
+      213: 6351068098887464165
+    second: W_21
+  - first:
+      213: 4170318595634116527
+    second: W_22
+  - first:
+      213: 480799543381460437
+    second: W_23
+  - first:
+      213: 5791839009680428688
+    second: W_24
+  - first:
+      213: -5534198559881131050
+    second: W_25
+  - first:
+      213: 4881706568801909525
+    second: W_26
+  - first:
+      213: 7732085918300094715
+    second: W_27
+  - first:
+      213: 7367319652183337181
+    second: W_28
+  - first:
+      213: 2794522534500407722
+    second: W_29
+  - first:
+      213: 7656128636573267360
+    second: W_30
+  - first:
+      213: 2429067289205472027
+    second: W_31
+  - first:
+      213: -2014722413478499454
+    second: W_32
+  - first:
+      213: -1065207917676314350
+    second: W_33
+  - first:
+      213: -4789517462706401128
+    second: W_34
+  - first:
+      213: -3985419375152258440
+    second: W_35
+  - first:
+      213: 7047008037391087396
+    second: W_36
+  - first:
+      213: 8652534491645050538
+    second: W_37
+  - first:
+      213: 1473527340394552197
+    second: W_38
+  - first:
+      213: -7940373971520527070
+    second: W_39
+  - first:
+      213: -33750879204636795
+    second: W_40
+  - first:
+      213: -3957904195925582573
+    second: W_41
+  - first:
+      213: -2150058626086338533
+    second: W_42
+  - first:
+      213: 1314700670835000868
+    second: W_43
+  - first:
+      213: 7609569954166357140
+    second: W_44
+  - first:
+      213: 2865906195106238846
+    second: Worm_0
+  - first:
+      213: -9177039919303097523
+    second: Worm_1
+  - first:
+      213: 7142516469680083159
+    second: Worm_2
+  - first:
+      213: -6131971823601528324
+    second: Worm_3
+  - first:
+      213: -1688427032042944706
+    second: Worm_4
+  - first:
+      213: -858658928856247996
+    second: Worm_5
+  - first:
+      213: 4291772212426863004
+    second: Worm_6
+  - first:
+      213: 4525640198422860362
+    second: Worm_7
+  - first:
+      213: 2465622324099999395
+    second: Worm_8
+  - first:
+      213: 901015957453635049
+    second: Worm_9
+  - first:
+      213: 5182979089588906634
+    second: Worm_10
+  - first:
+      213: 4480071127862098185
+    second: Worm_11
+  - first:
+      213: -4925000866256529923
+    second: Worm_12
+  - first:
+      213: -7547282180997528207
+    second: Worm_13
+  - first:
+      213: -4644459737093894307
+    second: Worm_14
+  - first:
+      213: 8169048616943460750
+    second: Worm_15
+  - first:
+      213: -601009922843046161
+    second: Worm_16
+  - first:
+      213: -1193057614541404633
+    second: Worm_17
+  - first:
+      213: 143581720093659803
+    second: Worm_18
+  - first:
+      213: -3139050004828331935
+    second: Worm_19
+  - first:
+      213: -5515006661947016780
+    second: Worm_20
+  - first:
+      213: 7561061500693734771
+    second: Worm_21
+  - first:
+      213: 1906589903823791379
+    second: Worm_22
+  - first:
+      213: 3860414114191675161
+    second: Worm_23
+  - first:
+      213: 5814482536816682533
+    second: Worm_24
+  - first:
+      213: -1666009441500653506
+    second: Worm_25
+  - first:
+      213: 1438624820335524418
+    second: Worm_26
+  - first:
+      213: 5091850497028670279
+    second: Worm_27
+  - first:
+      213: 3526168592616737191
+    second: Worm_28
+  - first:
+      213: 6129257721185287900
+    second: Worm_29
+  - first:
+      213: -2440687657069814972
+    second: Worm_30
+  - first:
+      213: 7429070356939094374
+    second: Worm_31
+  - first:
+      213: 5677777685175303156
+    second: Worm_32
+  - first:
+      213: 8172395263501772211
+    second: Worm_33
+  - first:
+      213: 2192852732989533947
+    second: Worm_34
+  - first:
+      213: 6925664668377043897
+    second: Worm_35
+  - first:
+      213: 2450169307439748695
+    second: Worm_36
+  - first:
+      213: -6075771566350596626
+    second: Worm_37
+  - first:
+      213: -4983658501206237226
+    second: Worm_38
+  - first:
+      213: -2170747202551907785
+    second: Worm_39
+  - first:
+      213: 5266229635577989296
+    second: Worm_40
+  - first:
+      213: -854130363608353795
+    second: Worm_41
+  - first:
+      213: -7502571403455079649
+    second: Worm_42
+  - first:
+      213: -2063121655005788124
+    second: Worm_43
+  - first:
+      213: 2084483747395792557
+    second: Worm_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worm_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7116ee008eb5c720800000000000000
+      internalID: 2865906195106238846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430c50c0da94a080800000000000000
+      internalID: -9177039919303097523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d098a1f2e05f1360800000000000000
+      internalID: 7142516469680083159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d6817d1cd6eaa0800000000000000
+      internalID: -6131971823601528324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c9ed5f808198e0800000000000000
+      internalID: -1688427032042944706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415e4ae04e6514f0800000000000000
+      internalID: -858658928856247996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917892a6107f8b30800000000000000
+      internalID: 4291772212426863004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42193858cd4ece30800000000000000
+      internalID: 4525640198422860362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6e04ab076a73220800000000000000
+      internalID: 2465622324099999395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7bf05d3d018c00800000000000000
+      internalID: 901015957453635049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a69397504ade740800000000000000
+      internalID: 5182979089588906634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90934b054f86c2e30800000000000000
+      internalID: 4480071127862098185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d9405ec1e6abb0800000000000000
+      internalID: -4925000866256529923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c106f7daa24790800000000000000
+      internalID: -7547282180997528207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0aecf9709b8fb0800000000000000
+      internalID: -4644459737093894307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81afc58f6a4e5170800000000000000
+      internalID: 8169048616943460750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8472d8a8c8a7f0800000000000000
+      internalID: -601009922843046161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264fa0bb68617fe0800000000000000
+      internalID: -1193057614541404633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921c6e40da1ef100800000000000000
+      internalID: 143581720093659803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e40ae6aadf64d0800000000000000
+      internalID: -3139050004828331935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b93cb429a2c673b0800000000000000
+      internalID: -5515006661947016780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756bb9ef594ee860800000000000000
+      internalID: 7561061500693734771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31563cd7a61957a10800000000000000
+      internalID: 1906589903823791379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8c4afe22f29530800000000000000
+      internalID: 3860414114191675161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526abaf8f0131b050800000000000000
+      internalID: 5814482536816682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3818e66d3521e8e0800000000000000
+      internalID: -1666009441500653506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab825e6a507f310800000000000000
+      internalID: 1438624820335524418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 53
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434acc9c03e9a640800000000000000
+      internalID: 5091850497028670279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a94f0d07a77fe030800000000000000
+      internalID: 3526168592616737191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb1185c6f7f0550800000000000000
+      internalID: 6129257721185287900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5ca8d18fe02ed0800000000000000
+      internalID: -2440687657069814972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6693db4f02c591760800000000000000
+      internalID: 7429070356939094374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7386f8b48bce40800000000000000
+      internalID: 5677777685175303156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ab15613e2a6170800000000000000
+      internalID: 8172395263501772211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee59241f39e6e10800000000000000
+      internalID: 2192852732989533947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b356187257ec1060800000000000000
+      internalID: 6925664668377043897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d289e000c00220800000000000000
+      internalID: 2450169307439748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5014383f58eaba0800000000000000
+      internalID: -6075771566350596626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1fb96ffc76dab0800000000000000
+      internalID: -4983658501206237226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a78be9be4ffd1e0800000000000000
+      internalID: -2170747202551907785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c24ea3f7651940800000000000000
+      internalID: 5266229635577989296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3bf3da5f48524f0800000000000000
+      internalID: -854130363608353795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b5e031f0381e790800000000000000
+      internalID: -7502571403455079649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 18
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c6f029c15e53e0800000000000000
+      internalID: -2063121655005788124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 18
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee9979ce29dec10800000000000000
+      internalID: 2084483747395792557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

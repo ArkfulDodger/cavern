@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: EndingDialogue1
+  m_EditorClassIdentifier: 
+  dIndex: 0
+  noPlayMusic: 0
+  noPlayVocal: 1
+  vocalClip: {fileID: 0}
+  regionTest: 0
+  regionRef: 0
+  formTest: 3
+  formRef: 3
+  visitTest: 0
+  visitRef: 0
+  cellTest: 0
+  cellRef: 0
+  steps:
+  - isActionStep: 0
+    text: ...
+  - isActionStep: 0
+    text: 'Do not forget me,
+
+      my Little Stone'
+  - isActionStep: 0
+    text: 'If you find my kin
+
+      in the world above, tell them...'
+  - isActionStep: 0
+    text: 'Tell them the Deep
+
+      remembers them...'
+  - isActionStep: 0
+    text: 'Perhaps there are others like you,
+
+      Earthborn'
+  - isActionStep: 0
+    text: 'I hope you find each other
+
+      in the world we formed'
+  - isActionStep: 0
+    text: Maybe all this time...
+  - isActionStep: 0
+    text: We made it for you
+  - isActionStep: 1
+    text: BLACKOUT1
+  - isActionStep: 1
+    text: MUSICEND
+  - isActionStep: 0
+    text: I would like that
+  - isActionStep: 0
+    text: I would like that very much

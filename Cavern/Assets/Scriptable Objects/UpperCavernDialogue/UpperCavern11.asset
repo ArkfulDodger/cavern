@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: UpperCavern11
+  m_EditorClassIdentifier: 
+  dIndex: 11
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 8300000, guid: 2795e324bb9a2461b80215756bd8bfc1, type: 3}
+  regionTest: 4
+  regionRef: 7
+  formTest: 4
+  formRef: 2
+  visitTest: 4
+  visitRef: 1
+  cellTest: 0
+  cellRef: 0
+  steps:
+  - isActionStep: 0
+    text: Can you hear me, Little Stone?
+  - isActionStep: 0
+    text: 'You climb so high, it becomes
+
+      difficult for me to sense you'
+  - isActionStep: 0
+    text: I was... worried
+  - isActionStep: 0
+    text: 'I cannot travel higher
+
+      to see you more clearly'
+  - isActionStep: 0
+    text: 'Fortunately, these tunnels can
+
+      carry my voice a great distance'
+  - isActionStep: 1
+    text: SKY
+  - isActionStep: 0
+    text: 'High as you are, can you feel
+
+      the whisper of the wind?'
+  - isActionStep: 0
+    text: 'I used to believe I could hear it
+
+      from the tunnels to the surface'
+  - isActionStep: 0
+    text: 'But that was before I took my
+
+      final place below'
+  - isActionStep: 0
+    text: 'I have not heard that voice
+
+      in a long time'
+  - isActionStep: 0
+    text: 'I have forgotten much,
+
+      but never that'
+  - isActionStep: 0
+    text: ...
+  - isActionStep: 0
+    text: 'But how have you progressed?
+
+      Let me see...'
+  - isActionStep: 0
+    text: You do so well!

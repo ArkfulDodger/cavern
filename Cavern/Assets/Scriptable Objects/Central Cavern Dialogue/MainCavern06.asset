@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: MainCavern06
+  m_EditorClassIdentifier: 
+  dIndex: 6
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 0}
+  regionTest: 4
+  regionRef: 3
+  formTest: 4
+  formRef: 0
+  visitTest: 5
+  visitRef: 1
+  cellTest: 5
+  cellRef: 5
+  steps:
+  - isActionStep: 0
+    text: ... oh!
+  - isActionStep: 0
+    text: 'I see your resonance is more
+
+      than similar, it is the same!'
+  - isActionStep: 0
+    text: 'Little Stone, see the bright
+
+      Cells scattered about'
+  - isActionStep: 0
+    text: 'Somehow, you have added
+
+      their light to your own'
+  - isActionStep: 0
+    text: 'Oho! And by only crawling
+
+      about no less!'
+  - isActionStep: 0
+    text: What could this mean? ...
+  - isActionStep: 0
+    text: 'Perhaps as you continue,
+
+      more will be made clear'
+  - isActionStep: 0
+    text: 'Ah, but your tiny form does
+
+      hinder you...'
+  - isActionStep: 0
+    text: "Little Stone, if you would \nallow me to try something"
+  - isActionStep: 0
+    text: 'I once could utilize this light
+
+      in a way that might help you'
+  - isActionStep: 0
+    text: Let us see if I still remember...
+  - isActionStep: 1
+    text: ZOOMTRANSFORMATION
+  - isActionStep: 1
+    text: MANUALZOOMOUT
+  - isActionStep: 0
+    text: There you are!
+  - isActionStep: 0
+    text: 'I spent an age shaping earth,
+
+      and your form is no different'
+  - isActionStep: 0
+    text: "With such claws, you can now \nscale these rocky crags"
+  - isActionStep: 0
+    text: 'Make your way up, Earthborn!
+
+      There is much to see'
+  - isActionStep: 1
+    text: INSTRUCTIONS
+  - isActionStep: 1
+    text: ZONEACTIVE

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: FinalAscent21
+  m_EditorClassIdentifier: 
+  dIndex: 21
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 0}
+  regionTest: 4
+  regionRef: 12
+  formTest: 5
+  formRef: 3
+  visitTest: 4
+  visitRef: 1
+  cellTest: 2
+  cellRef: 80
+  steps:
+  - isActionStep: 0
+    text: Make your choice

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: MainCavern01
+  m_EditorClassIdentifier: 
+  dIndex: 1
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 0}
+  regionTest: 4
+  regionRef: 3
+  formTest: 4
+  formRef: 0
+  visitTest: 4
+  visitRef: 1
+  cellTest: 2
+  cellRef: 5
+  steps:
+  - isActionStep: 0
+    text: 'Were your glow a bit stronger,
+
+      I might be able to...'
+  - isActionStep: 0
+    text: But no matter...
+  - isActionStep: 0
+    text: 'If you are real, Little Stone,
+
+      visit me here again'
+  - isActionStep: 0
+    text: '..... hmm, so this is what
+
+      has become of me'
+  - isActionStep: 0
+    text: talking to lights in the dark....
+  - isActionStep: 1
+    text: ZONEACTIVE

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4ccca228829c4a95aa43e12caf5cf4a, type: 3}
+  m_Name: UpperCavernDialogue
+  m_EditorClassIdentifier: 
+  region: 7
+  sections:
+  - {fileID: 11400000, guid: b8a8841d335ad42a2933967be54ad601, type: 2}
+  - {fileID: 11400000, guid: b5c7b14ace8d6482ea7d7b2b56a71d4b, type: 2}
+  - {fileID: 11400000, guid: f950b04442f03440b89585b125213ab1, type: 2}
+  - {fileID: 11400000, guid: c43b5829d07f64833bbfeb43f854c282, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960efe34bba2459c98766a98318812c, type: 3}
+  m_Name: CentralCavernHint
+  m_EditorClassIdentifier: 
+  region: 3
+  steps:
+  - isActionStep: 0
+    text: 'The place where you are now
+
+      is the Central Cavern'
+  - isActionStep: 0
+    text: 'To your left are the winding
+
+      paths of the Maze'
+  - isActionStep: 0
+    text: 'To your right lie the clustered
+
+      hollows of the Chambers'
+  - isActionStep: 0
+    text: 'Stretching above the Chambers,
+
+      you will find the Narrow Cliffs'
+  - isActionStep: 0
+    text: 'Climb that path to reach the
+
+      heights of this Cavern'

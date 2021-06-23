@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4ccca228829c4a95aa43e12caf5cf4a, type: 3}
+  m_Name: FinalAscentDialogue
+  m_EditorClassIdentifier: 
+  region: 12
+  sections:
+  - {fileID: 11400000, guid: f1b28728eae164070b9eb24693fba749, type: 2}
+  - {fileID: 11400000, guid: 5220ca4d6222a47e1907a3a99d3cfb9c, type: 2}
+  - {fileID: 11400000, guid: 4ba806cd29e9c4b379312dce7c48da86, type: 2}
+  - {fileID: 11400000, guid: 8e3300eccf9cd42729a17d42358b46c5, type: 2}
+  - {fileID: 11400000, guid: 2225e84a6f49644359045a006cba65d7, type: 2}
+  - {fileID: 11400000, guid: cfe43a866111945428f7df02788df341, type: 2}
+  - {fileID: 11400000, guid: 00d27ee6a6bcd43c0a4a3c4f78f3d939, type: 2}

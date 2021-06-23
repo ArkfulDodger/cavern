@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: CentralCavern10
+  m_EditorClassIdentifier: 
+  dIndex: 10
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 0}
+  regionTest: 4
+  regionRef: 5
+  formTest: 4
+  formRef: 1
+  visitTest: 5
+  visitRef: 1
+  cellTest: 5
+  cellRef: 15
+  steps:
+  - isActionStep: 0
+    text: 'Little Stone, feel the might of
+
+      the earth beneath you'
+  - isActionStep: 0
+    text: Its strength is your strength
+  - isActionStep: 0
+    text: 'Now allow me to help you
+
+      utilize it'
+  - isActionStep: 1
+    text: TRANSFORMATION
+  - isActionStep: 0
+    text: 'Such legs do well to connect
+
+      you to the ground'
+  - isActionStep: 0
+    text: 'But they are also good for
+
+      pushing away from it'
+  - isActionStep: 0
+    text: 'The climb to the Upper Cavern
+
+      is now accessible to you'
+  - isActionStep: 0
+    text: 'To reach it, cross the gap
+
+      before you to the Open Stair'
+  - isActionStep: 0
+    text: 'Take your first steps,
+
+      Earthborn!'
+  - isActionStep: 0
+    text: 'Continue updward, and
+
+      listen for me above'
+  - isActionStep: 1
+    text: INSTRUCTIONS

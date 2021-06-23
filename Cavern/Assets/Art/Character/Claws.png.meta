@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 3b3fa5421fe42466ba138958e7def342
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2478443863562118891
+    second: Claws_0
+  - first:
+      213: 8869396339347144186
+    second: Claws_1
+  - first:
+      213: -6431655651261584464
+    second: Claws_2
+  - first:
+      213: -4221186711847376335
+    second: Claws_3
+  - first:
+      213: -5637731003693258109
+    second: Claws_4
+  - first:
+      213: 3900645401193532765
+    second: Claws_5
+  - first:
+      213: -2454403272589309759
+    second: Claws_6
+  - first:
+      213: 7469619157506154896
+    second: Claws_7
+  - first:
+      213: -3018137887080330828
+    second: Claws_8
+  - first:
+      213: -1318445799792006559
+    second: Claws_9
+  - first:
+      213: 7306663778193226762
+    second: Claws_10
+  - first:
+      213: -8673517069739316676
+    second: Claws_11
+  - first:
+      213: -4683386913893700076
+    second: Claws_12
+  - first:
+      213: 4061909058794671377
+    second: Claws_13
+  - first:
+      213: 1628504500244947071
+    second: Claws_14
+  - first:
+      213: -471180386437172922
+    second: Claws_15
+  - first:
+      213: -6239058185658874721
+    second: Claws_16
+  - first:
+      213: -4102848479352157260
+    second: Claws_17
+  - first:
+      213: 1095977546220757436
+    second: Claws_18
+  - first:
+      213: 2189537790754615617
+    second: Claws_19
+  - first:
+      213: 6686760019216599952
+    second: Claws_20
+  - first:
+      213: 2308651507670903866
+    second: Claws_21
+  - first:
+      213: -5728429892719413516
+    second: Claws_22
+  - first:
+      213: -8845420224739934961
+    second: Claws_23
+  - first:
+      213: -1829095308398501314
+    second: Claws_24
+  - first:
+      213: 612017355399751450
+    second: Claws_25
+  - first:
+      213: 1942202281685661023
+    second: Claws_26
+  - first:
+      213: -1229675185735667680
+    second: Claws_27
+  - first:
+      213: 483120340922662452
+    second: Claws_28
+  - first:
+      213: 9006958150493222754
+    second: Claws_29
+  - first:
+      213: -9162669886573440149
+    second: Claws_30
+  - first:
+      213: -396814932437518011
+    second: Claws_31
+  - first:
+      213: -4129979375584454365
+    second: Claws_32
+  - first:
+      213: -4778111214971846263
+    second: Claws_33
+  - first:
+      213: -7633242092432415501
+    second: Claws_34
+  - first:
+      213: 4003484829976189010
+    second: Claws_35
+  - first:
+      213: 1656117828105048581
+    second: Claws_36
+  - first:
+      213: -6879839432598344518
+    second: Claws_37
+  - first:
+      213: 7485177064268276488
+    second: Claws_38
+  - first:
+      213: 2176389136074505725
+    second: Claws_39
+  - first:
+      213: 6905328186438616946
+    second: Claws_40
+  - first:
+      213: -313575676460915308
+    second: Claws_41
+  - first:
+      213: 3957988901781022308
+    second: Claws_42
+  - first:
+      213: -5793393376524972124
+    second: Claws_43
+  - first:
+      213: -4343085465578528326
+    second: Claws_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Claws_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51912acff6cca9dd0800000000000000
+      internalID: -2478443863562118891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbfe28afc661b70800000000000000
+      internalID: 8869396339347144186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6be4f24b2eb6a0800000000000000
+      internalID: -6431655651261584464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aecb5ec055b65c0800000000000000
+      internalID: -4221186711847376335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a28a9a581c2c1b0800000000000000
+      internalID: -5637731003693258109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc6ec6350e12630800000000000000
+      internalID: 3900645401193532765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c802c14a3530fdd0800000000000000
+      internalID: -2454403272589309759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0916b9a4c0b69a760800000000000000
+      internalID: 7469619157506154896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9cd6d159b6d16d0800000000000000
+      internalID: -3018137887080330828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aaacfc780f3bde0800000000000000
+      internalID: -1318445799792006559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cbb607efb766560800000000000000
+      internalID: 7306663778193226762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa6e8ed2a71a780800000000000000
+      internalID: -8673517069739316676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e27ab5a64410fb0800000000000000
+      internalID: -4683386913893700076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dc56f94ccce5830800000000000000
+      internalID: 4061909058794671377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a93cf63c999610800000000000000
+      internalID: 1628504500244947071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f7495fe70679f0800000000000000
+      internalID: -471180386437172922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f944fc6d2a96a69a0800000000000000
+      internalID: -6239058185658874721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb86fcbb01cf07c0800000000000000
+      internalID: -4102848479352157260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ea4485c1b53f00800000000000000
+      internalID: 1095977546220757436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f830250dc26e10800000000000000
+      internalID: 2189537790754615617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b80bb3fc42ccc50800000000000000
+      internalID: 6686760019216599952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce4e0805af90020800000000000000
+      internalID: 2308651507670903866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fab3fc578080b0800000000000000
+      internalID: -5728429892719413516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 79
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df15fab21ce3580800000000000000
+      internalID: -8845420224739934961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e29a028fbd96e0800000000000000
+      internalID: -1829095308398501314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17e9f8ca825e7800800000000000000
+      internalID: 612017355399751450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b3d95fa614fa10800000000000000
+      internalID: 1942202281685661023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 53
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fc150fe05feee0800000000000000
+      internalID: -1229675185735667680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef570f36364b600800000000000000
+      internalID: 483120340922662452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26735fa87b42ffc70800000000000000
+      internalID: 9006958150493222754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631f98b848a7d080800000000000000
+      internalID: -9162669886573440149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 53
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549bd7edbea3e7af0800000000000000
+      internalID: -396814932437518011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295994b3ad5fa6c0800000000000000
+      internalID: -4129979375584454365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810b4e5a2db0bdb0800000000000000
+      internalID: -4778111214971846263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a10472c6411690800000000000000
+      internalID: -7633242092432415501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585562dd3c3f8730800000000000000
+      internalID: 4003484829976189010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5029462e366bbf610800000000000000
+      internalID: 1656117828105048581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc204cac76e580a0800000000000000
+      internalID: -6879839432598344518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ac9cb1e0b0e760800000000000000
+      internalID: 7485177064268276488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd7db46366143e10800000000000000
+      internalID: 2176389136074505725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778a2a4667a4df50800000000000000
+      internalID: 6905328186438616946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495285a6594f5abf0800000000000000
+      internalID: -313575676460915308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466a8939fe99de630800000000000000
+      internalID: 3957988901781022308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 18
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afc0243b6bb99fa0800000000000000
+      internalID: -5793393376524972124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Claws_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 18
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a70b97c24ab3c0800000000000000
+      internalID: -4343085465578528326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

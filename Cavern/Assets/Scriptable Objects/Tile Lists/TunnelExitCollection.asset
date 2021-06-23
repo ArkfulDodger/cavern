@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93bf8662023434d31af3deaac8cdc17d, type: 3}
+  m_Name: TunnelExitCollection
+  m_EditorClassIdentifier: 
+  collectionName: Tunnel Exit Collection
+  listCollection:
+  - {fileID: 11400000, guid: 995f21527245645108000c8023d42263, type: 2}
+  - {fileID: 11400000, guid: 7ddff9f3a020a497082d3a93847af79f, type: 2}
+  - {fileID: 11400000, guid: e201217463d17404ba90ce39792f4766, type: 2}
+  - {fileID: 11400000, guid: 3557a904449e74d8997823f27024320d, type: 2}

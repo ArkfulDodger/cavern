@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e272fdd4dd0e743a481265ac701fe6d1, type: 3}
+  m_Name: TunnelUpAccess
+  m_EditorClassIdentifier: 
+  listName: tunnel up access
+  tileList:
+  - {fileID: 11400000, guid: 8091c875614d14d0c92246cb65b01953, type: 2}
+  - {fileID: 11400000, guid: 80a927484a4d94efcb74405f609cc145, type: 2}
+  - {fileID: 11400000, guid: 6511ef9ec19bb46a6a60cd9031faf5b9, type: 2}
+  - {fileID: 11400000, guid: 64849a1349ddc4554b62b92fb7a64fdc, type: 2}
+  - {fileID: 11400000, guid: 4893876bc8eae4408ae73f0cfb356d24, type: 2}
+  - {fileID: 11400000, guid: 09c8c09bfd51c4737a7b2372d21bddf3, type: 2}
+  - {fileID: 11400000, guid: 9388f45309b9344b9b501b9b8aa36cb3, type: 2}
+  - {fileID: 11400000, guid: 307232ec55f394bb09e2feade863b5b7, type: 2}
+  - {fileID: 11400000, guid: 76a874bd98d6c457dbd429bbb9fd3a9d, type: 2}
+  - {fileID: 11400000, guid: 8c9e15cbc7e484cdab9875b0671a234f, type: 2}
+  - {fileID: 11400000, guid: 0dfeed5caa58e47be932d4f7afe38302, type: 2}

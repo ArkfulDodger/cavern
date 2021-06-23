@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: MainCavern00
+  m_EditorClassIdentifier: 
+  dIndex: 0
+  noPlayMusic: 1
+  noPlayVocal: 1
+  vocalClip: {fileID: 0}
+  regionTest: 4
+  regionRef: 3
+  formTest: 4
+  formRef: 0
+  visitTest: 4
+  visitRef: 1
+  cellTest: 0
+  cellRef: 0
+  steps:
+  - isActionStep: 0
+    text: ... hrm? What's this?
+  - isActionStep: 0
+    text: 'Something crawling about
+
+      in the dark...'
+  - isActionStep: 1
+    text: LOOK
+  - isActionStep: 0
+    text: 'It moves in the dirt
+
+      like a thing alive'
+  - isActionStep: 0
+    text: How curious indeed...
+  - isActionStep: 0
+    text: 'My long isolation must have
+
+      finally caught up to me'
+  - isActionStep: 0
+    text: 'Well, even if I have
+
+      imagined you, Little Stone'
+  - isActionStep: 0
+    text: It is nice to have company
+  - isActionStep: 0
+    text: 'Your gentle glow calls to me
+
+      like an old memory'
+  - isActionStep: 0
+    text: 'the echoes of which can be
+
+      seen throughout this Cavern'

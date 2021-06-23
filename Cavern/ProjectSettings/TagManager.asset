@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCamera
+  - BirthSequence
+  - Cell
+  - RoomCover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tunnels
+  - Water
+  - UI
+  - Player
+  - Tunnel Entrances
+  - Cells
+  - Background
+  - Triggers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2555449861
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stencils
+    uniqueID: 2255593847
+    locked: 0
+  - name: Tunnels
+    uniqueID: 3613474331
+    locked: 0
+  - name: Cells
+    uniqueID: 4163816685
+    locked: 0
+  - name: RegionCovers
+    uniqueID: 4001949013
+    locked: 0
+  - name: FinalExitCover
+    uniqueID: 4104725313
+    locked: 0
+  - name: Player
+    uniqueID: 953671287
+    locked: 0
+  - name: BlackOut
+    uniqueID: 1606846999
+    locked: 0

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: DeepDialogue15
+  m_EditorClassIdentifier: 
+  dIndex: 15
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 8300000, guid: 5c0536d8a5bdf451681dec6b00457c80, type: 3}
+  regionTest: 4
+  regionRef: 11
+  formTest: 4
+  formRef: 3
+  visitTest: 4
+  visitRef: 1
+  cellTest: 0
+  cellRef: 0
+  steps:
+  - isActionStep: 0
+    text: 'Little Stone, you have made
+
+      it very far!'
+  - isActionStep: 0
+    text: Welcome to my domain
+  - isActionStep: 0
+    text: 'It brings me such joy to feel your
+
+      presence in this place'
+  - isActionStep: 0
+    text: 'Long has been my solitude,
+
+      and I have lost much'
+  - isActionStep: 0
+    text: 'But now, you have brought me
+
+      back to myself'
+  - isActionStep: 0
+    text: 'I do not possess solid form
+
+      such as you, but know I am here'
+  - isActionStep: 1
+    text: FONTAUTOON
+  - isActionStep: 0
+    text: I... am The Deep
+  - isActionStep: 1
+    text: FONTAUTOOFF
+  - isActionStep: 0
+    text: 'I and my kin were the first called
+
+      into being by the Wakening'
+  - isActionStep: 0
+    text: 'Its power was so vibrant, the will
+
+      to exist, to be, was so strong'
+  - isActionStep: 0
+    text: 'We harnessed the energy of
+
+      the Wakening, and through it...'
+  - isActionStep: 0
+    text: We formed the earth
+  - isActionStep: 0
+    text: 'Tide... Flame...
+
+      Deep... and Sky'
+  - isActionStep: 0
+    text: 'We four set the world in its shape,
+
+      and it was beautiful!'
+  - isActionStep: 0
+    text: 'When at last we came to rest,
+
+      holding our creation in its order'
+  - isActionStep: 0
+    text: 'I found myself alone here,
+
+      cut off by what I had made'
+  - isActionStep: 0
+    text: 'The Wakening dimmed, leaving
+
+      behind the Cells as an afterglow'
+  - isActionStep: 0
+    text: 'And all was still, long enough for
+
+      stillness to be all I knew'
+  - isActionStep: 0
+    text: Until you appeared
+  - isActionStep: 0
+    text: 'Born from the earth we made,
+
+      and yet not of our make'
+  - isActionStep: 0
+    text: You are something entirely new
+  - isActionStep: 0
+    text: 'And proof that we are not alone
+
+      in our existence'
+  - isActionStep: 0
+    text: 'Truly, I am honored to have been
+
+      allowed to aid in your shaping'
+  - isActionStep: 0
+    text: 'I may never leave this place,
+
+      for I am this place'
+  - isActionStep: 0
+    text: 'But let me grant you one final
+
+      gift before you go...'

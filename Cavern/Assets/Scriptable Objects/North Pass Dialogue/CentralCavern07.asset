@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412a11e5e2d7445f3a981b38bda6b67a, type: 3}
+  m_Name: CentralCavern07
+  m_EditorClassIdentifier: 
+  dIndex: 7
+  noPlayMusic: 0
+  noPlayVocal: 0
+  vocalClip: {fileID: 8300000, guid: 1e09d579ed9c846e998f8563244387fb, type: 3}
+  regionTest: 4
+  regionRef: 5
+  formTest: 4
+  formRef: 1
+  visitTest: 4
+  visitRef: 1
+  cellTest: 0
+  cellRef: 0
+  steps:
+  - isActionStep: 0
+    text: 'Such a brave climber you are,
+
+      Little Stone!'
+  - isActionStep: 0
+    text: 'Keep going, and you may one
+
+      day reach the surface!'
+  - isActionStep: 0
+    text: 'Oh? This does not seem to
+
+      mean anything to you...'
+  - isActionStep: 0
+    text: 'Of course, these dark tunnels
+
+      are all you have ever known'
+  - isActionStep: 0
+    text: 'There is so much more to this
+
+      world than what you see here'
+  - isActionStep: 0
+    text: 'So much that...
+
+      well...'
+  - isActionStep: 0
+    text: it is hard to remember exactly
+  - isActionStep: 0
+    text: 'But I do remember... I...
+
+      I remember it is there'
+  - isActionStep: 0
+    text: 'And I remember we... that we...
+
+      and it is beautiful...'
+  - isActionStep: 0
+    text: '... But if you are ever to see it,
+
+      you will need more than claws'
