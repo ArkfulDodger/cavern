@@ -1,4 +1,6 @@
-![Cavern preview gif](https://arkfuldodger.github.io/images/Cavern%20Featured%20Small.gif)
+<p align="center">
+  <img alt="Cavern preview gif" src="CavernFeaturedSmall.gif">
+</p>
 
 # Cavern
 Far beneath the surface, something finally stirs. You.
